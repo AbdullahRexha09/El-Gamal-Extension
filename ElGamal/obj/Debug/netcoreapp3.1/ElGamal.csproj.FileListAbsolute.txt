@@ -1,0 +1,14 @@
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\ElGamal.exe
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\ElGamal.deps.json
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\ElGamal.runtimeconfig.json
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\ElGamal.runtimeconfig.dev.json
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\ElGamal.dll
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\ElGamal.pdb
+C:\Users\arexha\source\repos\ElGamal\ElGamal\bin\Debug\netcoreapp3.1\BigInteger.dll
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.AssemblyInfoInputs.cache
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.AssemblyInfo.cs
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.csproj.CoreCompileInputs.cache
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.dll
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.pdb
+C:\Users\arexha\source\repos\ElGamal\ElGamal\obj\Debug\netcoreapp3.1\ElGamal.genruntimeconfig.cache
